@@ -6,6 +6,14 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+.btn-primary{
+    color: white;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 12px 20px;
+    margin-top: 15px;
+    border: 0;
+}
 /* header style is used here */
 header{
     display: flex;
@@ -15,18 +23,22 @@ header{
     align-items: center;
     gap: 70px;
 }
+.section-text{
+    padding-left: 140px;
+}
 .section-text-title{
     color: #272727;
     font-size: 60px;
     font-weight: 800;
-    padding-left: 140px;
+
 }
 .section-text-description{
     color: rgba(39, 39, 39, 0.60);
     font-size: 14px;
     font-weight: 400;
-    line-height: 15px;
-    padding-left: 140px;
+    line-height: 25px;
+    margin-top: 10px;
+
 }
 .section-photo{
     margin-top: 10px;
@@ -91,4 +103,38 @@ header{
 .image-title{
     margin-top: 20px;
     color: #272727;
+}
+.section-by-me{
+    width:70%;
+    height: 250px;
+    margin: auto;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    margin-bottom: 100px;
+}
+.section-by-me{
+    display: flex;
+}
+.part-left{
+    width: 50%;
+    padding-left: 100px;
+}
+.by-me-title{
+    color: #272727;
+}
+.facebook{
+
+}
+.by-me-description{
+    color: rgba(39, 39, 39, 0.60); 
+}
+.part-right{
+    width: 50%;
+    text-align: center;
+    
+}
+.my-part-img{
+    width: 125px;
+    border: 2px solid gray;
 }
