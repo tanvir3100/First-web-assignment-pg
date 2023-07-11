@@ -31,7 +31,6 @@ header{
     color: #272727;
     font-size: 60px;
     font-weight: 800;
-
 }
 .section-text-description{
     color: rgba(39, 39, 39, 0.60);
@@ -39,7 +38,6 @@ header{
     font-weight: 400;
     line-height: 25px;
     margin-top: 10px;
-
 }
 .section-photo{
     margin-top: 10px;
@@ -138,7 +136,6 @@ Here is where the style begins */
 .part-right{
     width: 50%;
     text-align: center;
-    
 }
 .my-part-img{
     width: 125px;
@@ -155,9 +152,7 @@ Here is where the style begins */
     background: rgba(229, 84, 115, 0.05);
     gap: 70px;
 }
-.offer-text{
-  
-}
+
 .offer-text-title{
     color: #272727;
     font-size: 30px;
@@ -199,9 +194,7 @@ Here is where the style begins */
     margin-top: 25px;
     margin-bottom: 100px;
 }
-.box-image{
 
-}
 .image-photo{
     width: 190px;
     height: 270px;
@@ -217,16 +210,10 @@ Here is where the style begins */
     background-size: cover;
     margin-bottom: 100px;
 }
-
 .section-sub-box{
     align-items: center;
     text-align: center;
 }
-/* .section-con-box{
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-} */
 .sub-title{
     text-align: center;
     padding-top: 70px;
@@ -268,6 +255,7 @@ Here is where the style begins */
 .sub-button{
     margin-left: 15px;
 }
+/* footer style is used here  */
 .footer-main{
     background: #111010;
     width: 100%;
@@ -277,14 +265,12 @@ Here is where the style begins */
     align-items: center;
     justify-content: center;
     padding-top: 150px;
-
 }
 .footer-title{
     padding-bottom: 10px;
 }
 .footer-span{
     color: #E55473;
-
 }
 .footer-description{
     color: rgba(255, 255, 255, 0.90);
