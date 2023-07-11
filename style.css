@@ -186,3 +186,20 @@ Here is where the style begins */
     font-weight: 400;
     line-height: 25px;
 }
+.section-box-images{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    gap: 14px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+.box-image{
+
+}
+.image-photo{
+    width: 200px;
+    
+}
