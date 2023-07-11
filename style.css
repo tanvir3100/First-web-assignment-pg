@@ -20,6 +20,7 @@ header{
     width: 1403px;
     height: 100vh;
     background-color:rgba(229, 84, 115, 0.10);
+    background-position: center;
     align-items: center;
     gap: 70px;
 }
@@ -104,8 +105,10 @@ header{
     margin-top: 20px;
     color: #272727;
 }
+/* This section is created by me
+Here is where the style begins */
 .section-by-me{
-    width:70%;
+    width:60%;
     height: 250px;
     margin: auto;
     border-radius: 8px;
@@ -124,7 +127,7 @@ header{
     color: #272727;
 }
 .facebook{
-
+    color: rgb(9, 149, 241);
 }
 .by-me-description{
     color: rgba(39, 39, 39, 0.60); 
