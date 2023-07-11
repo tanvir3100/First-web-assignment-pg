@@ -188,7 +188,7 @@ Here is where the style begins */
 }
 .section-box-images{
     display: flex;
-    width: 70%;
+    width: 60%;
     margin: auto;
     gap: 14px;
     align-items: center;
@@ -200,6 +200,31 @@ Here is where the style begins */
 
 }
 .image-photo{
-    width: 200px;
-    
+    width: 190px;
+    height: 270px;
 }
+.section-subscribe{
+    width:60%;
+    height: 250px;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.section-sub-box{
+    align-items: center;
+    text-align: center;
+}
+.section-con-box{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.sub-title{
+    text-align: center;
+    padding-top: 100px;
+}
+.sub-input{
+    display: flex; 
+    padding-left: 100px; 
+}
+
