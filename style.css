@@ -50,3 +50,45 @@ header{
     font-weight: 400;
     line-height: 25px;
 }
+.section-flower-photos{
+   display: flex;
+   justify-content:center;
+   text-align: center;
+   gap: 50px;
+   margin-top: 50px;
+   margin-bottom: 100px;
+}
+.img-flowers-pink{
+    width: 230px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.img-flowers-blue{
+    width: 230px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.img-flowers-green{
+    width: 230px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.flower-imageAA{
+    width: 190px;
+    margin-top: 34px;
+}
+.flower-imageBB{
+    width: 200px;
+    margin-top: 61px;
+}
+.flower-imageCC{
+    width: 187px;
+    margin-top: 15px;
+}
+.image-title{
+    margin-top: 20px;
+    color: #272727;
+}
