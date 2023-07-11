@@ -122,6 +122,7 @@ Here is where the style begins */
 .part-left{
     width: 50%;
     padding-left: 100px;
+    border-right: 2px solid #E55473;
 }
 .by-me-title{
     color: #272727;
@@ -169,4 +170,19 @@ Here is where the style begins */
     font-weight: 400;
     line-height: 25px;
     padding-top: 10px;
+}
+.section-instagram{
+    text-align: center;
+    padding-top: 100px;
+}
+.section-instagram-title{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+.section-instagram-description{
+    color: rgba(39, 39, 39, 0.60);;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
 }
